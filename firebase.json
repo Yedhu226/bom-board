@@ -31,7 +31,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "bom-board-ui/dist/bom-board-ui",
+    "public": "bom-board-ui/dist/bom-board-ui/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
